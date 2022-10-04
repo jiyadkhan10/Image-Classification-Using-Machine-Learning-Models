@@ -1,4 +1,4 @@
-# Image-Classification-Using-Machine-Learning-Models
+# Image Classification Using Machine Learning Models
 # Course
 DS3002	Data Mining <br />
 
